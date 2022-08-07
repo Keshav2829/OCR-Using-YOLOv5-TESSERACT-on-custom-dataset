@@ -2,9 +2,9 @@
 
 
 Resources:-
-https://github.com/ultralytics/yolov5
-https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba
+#https://github.com/ultralytics/yolov5
+#https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba
 
 
 
-authers:- Keshav Agrawal, Akshat
+Authors:- Keshav Agrawal, Akshat
